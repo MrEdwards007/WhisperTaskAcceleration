@@ -152,7 +152,7 @@ of CPU\core, the difference can be determined though performance timing.
 
 * OpenAI
 * Github Community
-* []()
+* Othneil Drew <a href="https://github.com/othneildrew/Best-README-Template">Best-README-Template</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
